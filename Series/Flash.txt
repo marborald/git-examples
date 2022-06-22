@@ -5,12 +5,12 @@ Seasons: 8
 Characters: Barry, Cisco, Iris, Felicity
 
 
---> 1° Season
+--> First Season
  
  Where pass: Central City
  Episodes: 23
 
---> 2° Season
+--> Second Season
  
  Where pass: Central City
  Episodes: 22
